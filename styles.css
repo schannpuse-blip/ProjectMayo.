@@ -137,7 +137,7 @@ body {
 .navbar {
   position: fixed;
   width: 100%;
-  height:clamp(2rem, 6vh, 5rem);
+  height:clamp(3rem, 6vh, 5rem);
   top: 0;
   z-index: 1000;
   background: rgba(0, 0, 0, 0.3);
